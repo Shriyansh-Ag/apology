@@ -39,8 +39,7 @@ export default function HeroSection() {
 
         <div className="space-y-6 text-lg md:text-xl text-gray-700 leading-relaxed font-sans">
           <p>
-            Hey Laddoo , I am really sorry for breaking your heart and I hate myself for letting you beleive that I am someone you think I am not.
-          </p>
+            Hey Laddoo, I'm truly sorry for breaking your heart. I hate myself for making you believe that I'm someone I'm really not.          </p>
           <p>
             You mean the world to me and id hate myself if i let you go. Please kishmish just watch this video below , I mean every single word of it.
           </p>

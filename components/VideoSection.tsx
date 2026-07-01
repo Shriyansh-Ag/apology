@@ -12,7 +12,7 @@ export default function VideoSection() {
   const [duration, setDuration] = useState(0);
   const [currentTime, setCurrentTime] = useState(0);
 
-  const VIDEO_URL = "/video1.mov"; // Upload your video to the public folder and change name if needed
+  const VIDEO_URL = "/video1.mp4"; // Upload your video to the public folder and change name if needed
 
   const togglePlay = () => {
     if (videoRef.current) {
